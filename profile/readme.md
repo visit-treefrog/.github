@@ -1,3 +1,5 @@
+![Treefrog — an interoperable WebMCP town](treefrog-banner.svg)
+
 # TreeFrog
 
 ## An interoperable WebMCP town
