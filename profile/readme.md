@@ -1,4 +1,4 @@
-![Treefrog — an interoperable WebMCP town](treefrog-banner.svg)
+<img src="treefrog-banner.svg" alt="Treefrog — an interoperable WebMCP town" width="100%">
 
 # TreeFrog
 
