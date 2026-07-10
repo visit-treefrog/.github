@@ -17,7 +17,7 @@ Salon Availability and appointment bookings
 ### Sirocco Gallery 
 Design-system inspection and conformance tools
 
-# One request. Three providers. A frog that hops. 
+## One request. Three providers. A frog that hops. 
 
 ## Coming soon.
 - Town Hall: Operational
