@@ -13,10 +13,12 @@ Town Hall publishes a machine-readable provider registry and builds itineraries 
 ## The first residents:
 ### ValentinCoffee.Cafe: 
 - Ordering and cafe operations
-### Timothy George: 
+### TimothyGeorge.design: 
 - Salon Availability and appointment bookings
 ### Sirocco.Gallery: 
 - Design-system inspection and conformance tools
+
+<img src="treefrog demo.png" alt="Treefrog — an interoperable WebMCP town" width="100%">
 >
 ---
 
