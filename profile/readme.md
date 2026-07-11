@@ -18,7 +18,13 @@ Town Hall publishes a machine-readable provider registry and builds itineraries 
 ### Sirocco.Gallery: 
 - Design-system inspection and conformance tools
 
-![Treefrog cross-site agent journey](treefrogdemo.png)
+## An agent's cross-site journey
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/visit-treefrog/.github/main/Treefrogdemo.png"
+       alt="Treefrog: an agent's cross-site journey" width="820">
+</p>
+
 >
 ---
 
