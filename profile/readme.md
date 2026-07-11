@@ -11,11 +11,11 @@ Town Hall publishes a machine-readable provider registry and builds itineraries 
 
 >
 ## The first residents:
-### Valentin Coffee: 
+### ValentinCoffee.Cafe: 
 - Ordering and cafe operations
 ### Timothy George: 
 - Salon Availability and appointment bookings
-### Sirocco Gallery: 
+### Sirocco.Gallery: 
 - Design-system inspection and conformance tools
 >
 ---
