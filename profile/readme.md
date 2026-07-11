@@ -18,7 +18,7 @@ Town Hall publishes a machine-readable provider registry and builds itineraries 
 ### Sirocco.Gallery: 
 - Design-system inspection and conformance tools
 
-<img src="treefrog demo.png" alt="Treefrog — an interoperable WebMCP town" width="100%">
+![Treefrog cross-site agent journey](treefrogdemo.png)
 >
 ---
 
