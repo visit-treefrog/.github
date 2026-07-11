@@ -38,6 +38,6 @@ Town Hall publishes a machine-readable provider registry and builds itineraries 
 - Multi-provider chain: Under construction
 - Voice Execution: Connected through Refraktor
 
-<p align="center">  
-  [a Ziola project](https://www.ziola.dev)
+<p align="center">
+  <a href="https://www.ziola.dev">a Ziola project</a>
 </p>
