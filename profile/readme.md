@@ -3,8 +3,8 @@
 # TreeFrog
 
 ## An interoperable WebMCP town
-Population: 3
-Founded: 2026
+- Population: 3
+- Founded: July 2026
 
 TreeFrog is an operational, interoperable WebMCP town built for cross-site WebMCP discovery and orchestration. 
 Town Hall publishes a machine-readable provider registry and builds itineraries that a general purpose consumer can follow across independent WebMCP surfaces.
