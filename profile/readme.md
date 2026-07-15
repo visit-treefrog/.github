@@ -12,6 +12,8 @@ Town Hall publishes a machine-readable provider registry and builds itineraries 
 ### Say it once, the town does the rest. 
 From a single request, the agent chains the whole errand end-to-end, no step-by-step prompting. Say "order me a latte, book me a hair appointment, and check my art display" and the agent hops across independent provider surfaces in sequence, completes each task, and verfies the journey against the itinerary - all in one go.
 
+See live demo here (BETA - refining voice): [WebMCP Interoperable Town Video Demo](https://www.youtube.com/watch?v=gY_1ywOK9tM)
+
 >
 ## The first residents:
 ### ValentinCoffee.Cafe: 
@@ -29,7 +31,6 @@ From a single request, the agent chains the whole errand end-to-end, no step-by-
 </p>
 
 >
->[WebMCP Interoperable Town Video Demo](https://www.youtube.com/watch?v=gY_1ywOK9tM)
 ---
 
 ## One request. Three providers. A frog that hops. 
