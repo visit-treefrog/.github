@@ -39,7 +39,7 @@ See live demo here (BETA - refining voice): [WebMCP Interoperable Town Video Dem
 - Town Hall: Operational
 - Provider Registry: Operational
 - Itinerary Planning: Operational
-- Cross-site navigation: In testing
+- Cross-site navigation: Operational 
 - Multi-provider chain: Under construction
 - Voice Execution: Connected through Refraktor
 
