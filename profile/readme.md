@@ -15,7 +15,11 @@ From a single request, the agent chains the whole errand end-to-end, no step-by-
 See live demo here (BETA - refining voice): [WebMCP Interoperable Town Video Demo](https://www.youtube.com/watch?v=gY_1ywOK9tM)
 
 >
-><img src="https://raw.githubusercontent.com/visit-treefrog/.github/main/Treefrogmap.png"
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/visit-treefrog/.github/main/Treefrogmap.png"
+    
+</p>
 >
 ## The first residents:
 ### ValentinCoffee.Cafe: 
