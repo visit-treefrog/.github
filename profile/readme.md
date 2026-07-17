@@ -23,14 +23,6 @@ See live demo here (BETA - refining voice): [WebMCP Interoperable Town Video Dem
 ### Sirocco.Gallery: 
 - Design-system inspection and conformance tools
 
-## An agent's cross-site journey
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/visit-treefrog/.github/main/Treefrogdemo.png"
-       alt="Treefrog: an agent's cross-site journey" width="820">
-</p>
-
->
 ---
 
 ## One request. Three providers. A frog that hops. 
@@ -41,6 +33,16 @@ See live demo here (BETA - refining voice): [WebMCP Interoperable Town Video Dem
 </p>
 
 >
+
+## An agent's cross-site journey
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/visit-treefrog/.github/main/Treefrogdemo.png"
+       alt="Treefrog: an agent's cross-site journey" width="820">
+</p>
+
+>
+---
 ## Coming soon.
 - Town Hall: Operational
 - Provider Registry: Operational
