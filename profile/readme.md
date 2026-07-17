@@ -14,11 +14,6 @@ From a single request, the agent chains the whole errand end-to-end, no step-by-
 
 See live demo here (BETA - refining voice): [WebMCP Interoperable Town Video Demo](https://www.youtube.com/watch?v=gY_1ywOK9tM)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/visit-treefrog/.github/main/treefrogmap.png"
-    
-</p>
-
 >
 ## The first residents:
 ### ValentinCoffee.Cafe: 
@@ -40,6 +35,12 @@ See live demo here (BETA - refining voice): [WebMCP Interoperable Town Video Dem
 
 ## One request. Three providers. A frog that hops. 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/visit-treefrog/.github/main/treefrogmap.png"
+    
+</p>
+
+>
 ## Coming soon.
 - Town Hall: Operational
 - Provider Registry: Operational
